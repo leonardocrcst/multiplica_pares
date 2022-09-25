@@ -1,24 +1,29 @@
-# multiplica_pares
+# Multiplica pares
 
-## Project setup
+### Multiplica um valor base pelos números pares dentro de um intervalo
+
+Esse projeto faz parte dos meus estudos e exercícios de exploração de Vue.js
+
+## Versões
+
+0.1 - Multiplica os valores definidos via componente
+
+## Instalação
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### Execução
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
+### Construção
 ```
 yarn build
 ```
 
-### Lints and fixes files
+### Lint para o código
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
